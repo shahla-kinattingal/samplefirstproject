@@ -9,17 +9,6 @@
     margin-top:-90px ;
     }
 
-    @media(max-width:600px){
-        #firsttopdiv{
-            height: 700px;
-            width: 100%;
-            background-image: url(copy-space-seeds-cereals.jpg);
-            background-size:cover; 
-            border: 1px white;
-            margin-top:-90px ;
-            }
-        
-    } 
 
  .tophead{
     font-family: 'DM Sans', sans-serif;
