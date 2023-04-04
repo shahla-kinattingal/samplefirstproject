@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=DM+Sans:wght@700&family=Lato:ital@0;1&family=Merriweather+Sans:ital,wght@1,300&family=Poppins:wght@100;500&family=Roboto+Mono:wght@200&family=Tilt+Warp&display=swap');
+
+#firsttopdiv{
+    height: 700px;
+    width: 100%;
+    background-image: url(copy-space-seeds-cereals.jpg);
+    background-size:cover; 
+    border: 1px white;
+    margin-top:-90px ;
+    }
+
+
+ .tophead{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 100px;
+    line-height: 40px;
+    color: rgb(146, 146, 72);
+    padding-left:65px ;
+    
+
+}
+#firstheading{
+    padding-top: 180px;
+
+}
+.para{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    padding-left:65px ;
+    line-height: 12px;
+    color:black;
+    
+}
+#button{
+    height: 50px;
+    width: 155px;
+    border-radius: 25px;
+    font-size: medium;
+    border-color: rgb(146, 146, 72);
+    border-width: 3px;
+    margin-left:65px ;
+    
+}
+.seconddiv{
+     display: flex; 
+    height: 350px;
+    width: 100%;
+    background-color: rgb(245, 240, 240);
+    justify-content: space-evenly;
+    align-items:self-start;
+}
+.seconddivchild{
+    height: 300px;
+    width: 400px;
+    background-color:white;
+    margin-top: -50px;
+    
+    
+    
+    
+
+}
+.img{
+    height: 100px;
+    width: 100px;
+    padding-top: 25px;
+    padding-left: 130px;
+    
+}
+.blockhead{
+    font-size: 25px;
+    text-align: center;
+    padding-top: -44px;
+    color: black;
+}
+.blockpara{
+    text-align: center;
+    line-height: 8px;
+    color: rgb(177, 176, 176);
+    font-size: 17px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.thirddiv{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 18px;
+    line-height: 45px;
+    
+}
+.thirddivpara{
+    line-height: 10px;
+    font-size: 20px;
+}
+.fourthdiv{
+    height: 320px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.imgdiv{
+    height:300px ;
+    width: 300px;
+    padding: 10px;
+}
+.rowimg{
+    height: 300px;
+    width: 300px;
+}
+.fifthdiv{
+    height: 390px;
+    width: 100%;
+   margin-top: -10px;
+     display: flex;
+    justify-content: center; 
+}
+.imgdivtwo{
+    height:300px ;
+    width: 300px;
+     padding: 10px; 
+}
+.rowimgtwo{
+    height: 300px;
+    width: 300px;
+} 
+.sixthdiv{
+    text-align: center;
+    font-size: 19px;
+    background-color: rgb(245, 240, 240); 
+    padding-top: 19px;
+    height: 580px;
+    width: 100%;
+    border: 1px solid rgb(245, 240, 240);
+}
+.sixthpara{
+    line-height: 10px;
+}
+.seventhdiv{
+    
+    width:100% ;
+    background-color: rgb(245, 240, 240) ;
+    margin-top: 65px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.seventhdivchild{
+    height: 200px;
+    width: 200px;
+   text-align: left;
+
+    
+}
+.seventhheading{
+    font-size: 21px;
+}
+.seventhpara{
+    color:rgb(128, 124, 124) ;
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-top: -20px;
+    font-size: 16px;
+    line-height: 23px;
+
+}
+#seventhdivchildthird{
+    width: 220px;
+}
+#seventhdivchildfourth{
+    width: 220px;
+}
+#buttontwo{
+    margin-top: 40px;
+    height: 50px;
+    width: 155px;
+    border-radius: 25px;
+    font-size: medium;
+    border-color: rgb(146, 146, 72);
+    border-width: 3px;
+}
+.eightdiv{
+     height: 350px;
+     width: 100%;
+     display:flex;
+     justify-content: center;
+     justify-content: space-evenly;
+     margin-top: 100px;
+     border: 1px solid white;
+}
+.eightdivchild{
+     height: 260px;
+     width: 250px; 
+     
+
+}
+.eightdivimg{
+    height: 260px;
+    width: 250px;
+    
+      
+}
+#idtwoeightdivchild{
+    border:3px solid rgb(146, 146, 72) ; 
+    width: 210px;
+    height:215px ;
+    padding:20px;
+    line-height: 25px;
+    
+    
+}
+#idfoureightdivchild{
+    border:3px solid rgb(146, 146, 72) ;
+    width: 210px;
+    height:215px ;
+    padding:20px;
+    line-height: 25px;
+
+}
+.headlast{
+    font-size:25px ;
+
+}
+.lastpara{
+    font-size: 19px;
+}
+.ninthdiv{
+    height: 500px;
+    width:100%;
+    display:flex;
+    border: 1px solid white;
+}
+.ninthdivchild{
+    height: 500px;
+    width: 700px;
+}
+#lastimg{
+    width: 700px;
+    height: 570px;
+}
+#lastpara{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:rgb(245, 240, 240) ;
+    padding-top: 70px;
+    font-size: 19px;
+}
+.lastp{
+    line-height: 25px;
+    color: rgb(83, 81, 81);
+}
+#lastbutton{
+    height: 50px;
+    width: 155px;
+    border-radius: 25px;
+    font-size: medium;
+    border-color: rgb(146, 146, 72);
+    border-width: 3px;
+}
+
+
+
+ 
+    
+
+
